@@ -18,5 +18,8 @@ Es el conjunto de normas de comportamiento y buena educación que deben observar
 6.☺️ **Sistema Operativo**
 Software que gestiona el hardware y permite la interacción del usuario con la computadora. Ejemplos: Windows, Linux, macOS, Android e iOS.
 
+2. 🔷 **kERNEL**
+Núcleo del sistema operativo que se encarga de gestionar memoria, procesos y dispositivos. Es la capa que comunica directamente el hardware con el software.
+
 
 
